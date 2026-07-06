@@ -6,7 +6,7 @@ O Dr. Máuricio necessita de um sistema capaz de organizar seus atendimentos. O 
  
 Cadastro: Onde será necessário o registro do dono (Tutor), com nome, CPF, seu respectivo pet, endereço e telefone para contato.
 
-Cadastro: Onde será necessário o registro de paciente(Pet), nome, seu respectivo tutor, data de chegada, tipo do Pet(Gato, cachorros e outros), raça, idade e situação(saudável ou em tratamento).
+Cadastro: Onde será necessário o registro de paciente(Pet), nome, seu respectivo tutor, data de chegada, tipo do Pet(Gato, cachorros e outros), raça, idade e situação(saudável ou em tratamento). Cada animal cadastrado deve estar vinculado a um único dono. Ele será encontrado no sistema a partir do CPF do tutor. Caso o tutor tenha mais de um pet, eles serão listados sob o CPF do dono, mas com uma aba particular para cada um.
 
 Consulta: Será baseada em tipo de atendimento (Normal ou prioritário), Data, nome do pet, raça e laudo.
  
