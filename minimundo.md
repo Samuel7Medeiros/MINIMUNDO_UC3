@@ -2,7 +2,7 @@ Dr. Maurício tem um PetShop. Ele realiza consultas presenciais operando cirurgi
 
 Minimundo Dr. Marício - Clínica Veterinária
  
-O Dr. Máuricio necessita de um sistema capaz de organizar seus atendimentos.
+O Dr. Máuricio necessita de um sistema capaz de organizar seus atendimentos. O sistema armazenará não só as informações cadastrais abaixo. é necessário salvar a data da consulta do pet em caso de necessidade de retorno e para consultas futuras sobre o histórico do que foi feito no animal, pois casos de reincidência dependendo do contexto exigem métodos diferentes dos usados na primeira ocorrência. É preciso saber qual veterinário atendeu porque ele teve a experiência prática e saberá detalhar melhor do que aquele que não estava presente na ocasião. Diagnósticos, sintomas, medicamentos e vacina (lote, nome e data) estarão dentro do sistema.
  
 Cadastro: Onde será necessário o registro do dono (Tutor), com nome, CPF, seu respectivo pet, endereço e telefone para contato.
 
